@@ -6,5 +6,5 @@ Some projects I worked on.
 * 2nd part : An implementation of the algorithm in Python 
 * Results of runing the algorithm on grids of different size:  
 
-![](/Images/Grid%20and%20UST.png) 
-![](/Images/Grid%20and%20UST2.png)
+![](Images/Grid%20and%20UST.png) 
+![](Images/Grid%20and%20UST2.png)
