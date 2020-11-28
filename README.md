@@ -1,7 +1,7 @@
 ## Ahmed Asini
 Here are some projects I worked on.
 # Algorithms:
-# [Project 1: Wilson algorithm for uniform spanning tree:](https://github.com/AhmedASN/Wilson-Algorithm-for-uniform-spanning-tree)
+## [Project 1: Wilson algorithm for uniform spanning tree:](https://github.com/AhmedASN/Wilson-Algorithm-for-uniform-spanning-tree)
 * 1st part : A theoretical one.Basing on the loop-erased random walk model, We demonstrate the correctness of the algorithm.
 * 2nd part : An implementation of the algorithm in Python 
 * Results of runing the algorithm on grids of different size:  
