@@ -1,5 +1,5 @@
-# Ahmed_Asini
-Some projects I worked on.
+## Ahmed Asini
+Here are some projects I worked on.
 # Algorithms:
 # [Project 1: Wilson algorithm for uniform spanning tree:](https://github.com/AhmedASN/Wilson-Algorithm-for-uniform-spanning-tree)
 * 1st part : A theoretical one.Basing on the loop-erased random walk model, We demonstrate the correctness of the algorithm.
