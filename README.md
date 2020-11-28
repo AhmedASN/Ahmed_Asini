@@ -6,5 +6,5 @@ Some projects I worked on.
 * 2nd part : An implementation of the algorithm in Python 
 * Results of runing the algorithm on grids of different size:  
 
-![](https://github.com/AhmedASN/Wilson-Algorithm-for-uniform-spanning-tree/blob/main/Grid%20and%20UST.png) 
+![](images/Grid%20and%20UST.png) 
 ![](https://github.com/AhmedASN/Wilson-Algorithm-for-uniform-spanning-tree/blob/main/Grid%20and%20UST2.png)
