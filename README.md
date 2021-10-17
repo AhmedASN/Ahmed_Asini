@@ -2,8 +2,8 @@
 Projects I worked on.
 # Algorithms:
 ## [Project 1: Wilson algorithm for uniform spanning tree](https://github.com/AhmedASN/Wilson-Algorithm-for-uniform-spanning-tree)
-* 1st part : A theoretical one.Basing on the loop-erased random walk model, We demonstrate the correctness of the algorithm.
-* 2nd part : An implementation of the algorithm in Python 
+* 1st part : Using the loop-erased random walk model based approach, we demonstrate the correctness of the algorithm.
+* 2nd part : An implementation of the algorithm in Python.
 * Results of runing the algorithm on grids of different size:  
 
 ![](Images/Grid%20and%20UST.png) 
@@ -29,7 +29,6 @@ The neural networks will be training on a data set with the following property :
 CNN (Convolutional Neural Network) based on Conv2D achieved ***99.8%*** in accuracy while CNN based on SeparableConv2D achieved ***98.5%***.
 
 # Cyber-Security:
-I took a lab class in Cyber-Security at École polytechnique. Each week we had an ethical hacking challenge to solve individually.
-Happy to share my solutions to ones of these challenges:
+I would like to share my solutions to some challenges suggested in Cyber-Security lab class I took at École polytechnique:
 
 ## [Challenge 1: Running Buffer Overflow Attack](https://github.com/AhmedASN/Cyber-Security/tree/main/First%20Challenge)
