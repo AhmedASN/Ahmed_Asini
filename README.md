@@ -29,6 +29,5 @@ The neural networks will be training on a data set with the following property :
 CNN (Convolutional Neural Network) based on Conv2D achieved ***99.8%*** in accuracy while CNN based on SeparableConv2D achieved ***98.5%***.
 
 # Cyber-Security:
-I would like to share my solutions to some challenges suggested in Cyber-Security lab class I took at École polytechnique:
 
 ## [Challenge 1: Running Buffer Overflow Attack](https://github.com/AhmedASN/Cyber-Security/tree/main/First%20Challenge)
